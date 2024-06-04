@@ -9,7 +9,6 @@ Bu Python programı, 9x9'luk bir Sudoku bulmacasını çözmek için geri izleme
 - [Kullanım](#kullanım)
 - [Fonksiyonlar](#fonksiyonlar)
 - [Katkıda Bulunma](#katkıda-bulunma)
-- [İletişim][#iletişim]
 
 ## Özellikler
 
